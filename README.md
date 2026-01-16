@@ -1,1 +1,0 @@
-# chatbot-ia-generativa
